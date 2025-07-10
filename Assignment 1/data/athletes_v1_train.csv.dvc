@@ -1,0 +1,5 @@
+outs:
+- md5: 2fee7a38890218d02dedc14c934b78f8
+  size: 15072690
+  hash: md5
+  path: athletes_v1_train.csv
